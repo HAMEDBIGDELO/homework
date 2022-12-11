@@ -1,0 +1,18 @@
+.table1{
+background-color: darkgreen;
+color: aliceblue;
+border-top-left-radius : 5px;
+border-top-right-radius: 5px;
+}
+.table2{
+    background-color: aliceblue;
+    color: black;
+}
+.table3{
+    background-color: rgb(236, 236, 236);
+    color: rgb(111, 248, 191);
+}
+.text{
+    color:red;
+
+}
